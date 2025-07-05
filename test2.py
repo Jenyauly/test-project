@@ -1,1 +1,1 @@
-# login test
+# logout test
