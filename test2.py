@@ -1,2 +1,2 @@
-# logout test
+# no test at all
 # no test
